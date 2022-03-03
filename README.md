@@ -10,8 +10,12 @@ Objective:
  7. Total Quantity sold.
 
 In Product Details report we will find out
- -> Product category we get maximum and minimum sales
- -> Product category we get maximum and minimum profit
- -> Which month we get maximum profit in product category
- -> Which product we earn less profit
- -> which product we have to work on it so that customers will buy that product.
+ -Product category we get maximum and minimum sales
+ 
+ -Product category we get maximum and minimum profit
+ 
+ -Which month we get maximum profit in product category
+ 
+ -Which product we earn less profit
+ 
+ -which product we have to work on it so that customers will buy that product.
