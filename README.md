@@ -18,4 +18,4 @@ In Product Details report we will find out
  
  -Which product we earn less profit
  
- -which product we have to work on it so that customers will buy that product.
+ -Which product we have to work on it so that customers will buy that product.
